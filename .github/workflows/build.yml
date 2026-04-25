@@ -1,4 +1,4 @@
-name: Build
+uses: Build
 on:
   workflow_dispatch:
       inputs:
